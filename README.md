@@ -1,3 +1,3 @@
-semi-supervised opinion spam classification models in jupyter notebook
+Semi-supervised opinion spam classification model in jupyter notebook
 
-script for my msc thesis
+Script for my msc thesis
