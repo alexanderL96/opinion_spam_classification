@@ -9,7 +9,7 @@ Semi-supervised opinion spam classification models in jupyter notebook. Includes
 Code depends on the following packages that should be downloaded:
 - https://github.com/tmadl/semisup-learn;
 - https://github.com/jjrob13/sklearn_cotraining;
-- sklearn (default python library).
+- scikit learn (default python library).
 
 
 
